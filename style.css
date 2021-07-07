@@ -1,0 +1,10 @@
+body{
+    font-family: 'Staatliches';
+}
+h1 {
+    font-size:66px;
+}
+canvas {
+    border:3px solid rgb(0, 26, 255);
+    margin-top: 30px;
+}
